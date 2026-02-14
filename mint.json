@@ -23,6 +23,12 @@
             "pages": [
                 "automation/365-challenge-auto-post"
             ]
+        },
+        {
+            "group": "網站維護",
+            "pages": [
+                "maintenance/manual"
+            ]
         }
     ],
     "footerSocials": {
