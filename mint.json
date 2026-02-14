@@ -27,7 +27,8 @@
         {
             "group": "自動化與工具",
             "pages": [
-                "automation/365-challenge-auto-post"
+                "automation/365-challenge-auto-post",
+                "automation/ai-post-helper"
             ]
         },
         {
