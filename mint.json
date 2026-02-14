@@ -6,11 +6,12 @@
     },
     "favicon": "/favicon.png",
     "colors": {
-        "primary": "#0F52BA",
-        "light": "#4D89FF",
-        "dark": "#0A3A8B"
+        "primary": "#3B82F6",
+        "light": "#60A5FA",
+        "dark": "#1E3A8A"
     },
     "navigation": [
+        "introduction",
         {
             "group": "教學文件",
             "pages": [
