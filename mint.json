@@ -1,0 +1,32 @@
+{
+    "name": "RoamDigital AI Notes",
+    "logo": {
+        "light": "/logo/logo.png",
+        "dark": "/logo/logo.png"
+    },
+    "favicon": "/favicon.png",
+    "colors": {
+        "primary": "#0F52BA",
+        "light": "#4D89FF",
+        "dark": "#0A3A8B"
+    },
+    "navigation": [
+        {
+            "group": "教學文件",
+            "pages": [
+                "tutorials/rubiks-cube",
+                "tutorials/youtube-download"
+            ]
+        },
+        {
+            "group": "自動化與工具",
+            "pages": [
+                "automation/365-challenge-auto-post"
+            ]
+        }
+    ],
+    "footerSocials": {
+        "github": "https://github.com/bangdoll",
+        "website": "https://rd.coach"
+    }
+}
