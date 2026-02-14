@@ -11,7 +11,12 @@
         "dark": "#1E3A8A"
     },
     "navigation": [
-        "introduction",
+        {
+            "group": "網站首頁",
+            "pages": [
+                "introduction"
+            ]
+        },
         {
             "group": "教學文件",
             "pages": [
