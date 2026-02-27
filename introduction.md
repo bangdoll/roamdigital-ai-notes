@@ -8,25 +8,35 @@ description: "探索 AI 自動化、數位教學與雲端維運的實戰筆記�
 ## 內容導覽
 
 <CardGroup cols={2}>
+  <Card title="📝 精選專欄" icon="newspaper" href="/articles/digital-persona-11years">
+    數位教練的深度觀點文章，涵蓋 AI 自我進化、本地語音革命、NotebookLM 企業應用等主題。
+  </Card>
   <Card title="🎓 教學文件庫" icon="book-open" href="/tutorials/rubiks-cube">
     包含魔術方塊還原法、YouTube 影片下載與管理指南等實用教學。
   </Card>
   <Card title="🤖 自動化工具" icon="robot" href="/automation/365-challenge-auto-post">
     365 攝影挑戰自動發布系統與 Telegram Bot 整合 SOP。
   </Card>
-  <Card title="🛠️ 網站維護" icon="gears" href="/maintenance/manual">
-    本站（Mintlify）的維運手冊與技術架構說明。
-  </Card>
   <Card title="🌍 回到主站" icon="house" href="https://rd.coach">
     返回 RoamDigital 官方網站，獲取更多數位教練資訊。
   </Card>
 </CardGroup>
 
+## 🆕 精選專欄 (2026 年 2 月新增)
+
+| 文章 | 主題 |
+|------|------|
+| [11 年日記的終極複利](/articles/digital-persona-11years) | 如何用 4000 天數據餵養出你的「數位分身」 |
+| [OpenClaw 自我進化](/articles/ai-self-evolution) | 打造真正具備「生命力」的數位第二大腦 |
+| [全本地 AI 語音革命](/articles/local-asr-revolution) | 從雲端轉向本地端的戰略思維 |
+| [NotebookLM 企業內訓](/articles/notebooklm-enterprise) | 讓 AI 成為你的「跨部門專家助手」 |
+| [S 級自動化產線](/articles/s-tier-automation) | 大阿爪 x n8n 的「24/7 引流漏斗」佈局 |
+
 ## 最近更新
 
+*   **2026-02-27**: 🆕 新增「精選專欄」分類，上架 5 篇數位教練深度觀點文章。
 *   **2026-02-14**: 修正首頁 404 問題，建立全站內容清單。
 *   **2026-02-13**: 更新「魔術方塊七步驟還原法」圖文教學。
-*   **自動化筆記**: 預計新增「WeChat 朋友圈自動化」避坑指南。
 
 ---
 > [!TIP]

@@ -18,6 +18,16 @@
             ]
         },
         {
+            "group": "精選專欄",
+            "pages": [
+                "articles/digital-persona-11years",
+                "articles/ai-self-evolution",
+                "articles/local-asr-revolution",
+                "articles/notebooklm-enterprise",
+                "articles/s-tier-automation"
+            ]
+        },
+        {
             "group": "教學文件",
             "pages": [
                 "tutorials/rubiks-cube",
